@@ -19,5 +19,8 @@ An self-thought programmer, Linux enthusiast
 
 ![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi775&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi775&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Social
 [discord](https://discords.com/bio/p/akabanekarma)
